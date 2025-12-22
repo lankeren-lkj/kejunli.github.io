@@ -487,7 +487,7 @@ margin-bottom: 10px;
 
 /* 关键：caption 跟随图片宽度 */
 .project-image-inline .image-caption {
-  width: 80%;
+  width: 90%;
   text-align: left;
   margin-top: 6px;
 }
@@ -681,4 +681,5 @@ text-align: left;
     margin: 0 auto; /* 居中，更像策展排版 */
   }
 }
+
 
